@@ -43,6 +43,10 @@
 
 * [Issue and Pull Request Template Generator featuring Cthulhu and Lewis Carroll](https://www.talater.com/open-source-templates/)
 
+## :gift: Templates for projects
+
+* [GitHub Best Practices Template](https://github.com/jlcanovas/gh-best-practices-template)
+
 ## :grimacing: Template Collections
 
 * [github-issue-templates](https://github.com/stevemao/github-issue-templates)
